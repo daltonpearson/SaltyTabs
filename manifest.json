@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "SaltyTabs",
+    "description": "Closes tabs based on their title or url",
+    "version": "1.16",
+    "author": "Dalton Pearson",
+    "browser_action": {
+        "default_icon": "tab-icon.png",
+      "default_title": "SaltyTabs"
+    },
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": ["activeTab", "tabs"
+    ]
+}
