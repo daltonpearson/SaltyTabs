@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "SaltyTabs",
     "description": "Closes tabs based on their title or url",
-    "version": "1.16",
+    "version": "2.0",
     "author": "Dalton Pearson",
     "browser_action": {
         "default_icon": "tab-icon.png",
